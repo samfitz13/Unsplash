@@ -4,16 +4,16 @@ const postRoute = require("./routes/posts");
 const cors = require("cors");
 
 const app = express();
+app.use(cors());
+app.use(express.json());
 
 //connect to DB
 connectDB();
 
-app.get("/", (req, res) => res.send("test"));
-app.use(cors());
 
-app.use(express.json());
 
 app.use("/post", postRoute);
+app.use("*", (req, res) => res.status(404).json({ error: "not found" }));
 
 const port = process.env.PORT || 8082;
 
