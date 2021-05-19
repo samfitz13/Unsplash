@@ -1,0 +1,22 @@
+{
+	"name": "unSplash-Backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"cors": "^2.8.5",
+		"dotenv": "^9.0.2",
+		"env": "0.0.2",
+		"express": "^4.17.1",
+		"mongoose": "^5.12.10"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"app": "nodemon app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
