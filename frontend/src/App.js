@@ -91,7 +91,7 @@ const App = () => {
 					Add a photo
 				</Button>
 				<Modal
-					title="Test Title"
+					title="Add a New Photo"
 					visible={visible}
 					onOk={handleOk}
 					confirmLoading={confirmLoading}
