@@ -37,7 +37,7 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/rYyhwJAxMfES5jNQ9YsP) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/) challenge. The [challenge](https://devchallenges.io/challenges/rYyhwJAxMfES5jNQ9YsP) was to build an application to complete the given user stories.
 
 We created the back end using express and mongodb. We added the functoinality for a user to add a new image to the photoboard via a modal from ant.design. We also added a search functionality that will search the labels to see if they contain the query and return the appropriate photos. The front end is created with React and the Ant.Design Component Library. 
 
