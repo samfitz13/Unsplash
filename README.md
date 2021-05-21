@@ -14,7 +14,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
@@ -24,14 +24,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![screenshot](/Screenshot.png)
 
 ### Built With
 
@@ -64,12 +57,12 @@ $ npm start
 ```
 ## Contact
 
-Co-Authored by Sam Fitzgerald && 
+Co-Authored by Sam Fitzgerald && Nesh Shanth
 
 Sam Fitzgerald 
-- [Github](github.com/samfitz13)
-- [Website](samfitz.me)
-- [LinkedIn](linkedin.com/in/samfitzofficial)
+- [Github](https://github.com/samfitz13)
+- [Website](https://samfitz.me)
+- [LinkedIn](https://linkedin.com/in/samfitzofficial)
 
 Nesh Shanth
-- [Github](github.com/nesh325)
+- [Github](https://github.com/nesh325)
